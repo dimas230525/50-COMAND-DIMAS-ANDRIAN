@@ -78,6 +78,31 @@
 47. ping [alamat] → Mengecek koneksi ke alamat tertentu  
 48. wget [url] → Mengunduh file dari internet  
 49. curl [url] → Mengambil data dari URL  
-50. netstat -tulnp → Melihat port yang sedang digunakan  
+50. netstat -tulnp → Melihat port yang sedang digunakan
+
+SILAHKAN LIAT HASILNYA DIBAWAH INI
+
+    ![Gambar WhatsApp 2025-02-13 pukul 12 22 05_3a47e688](https://github.com/user-attachments/assets/3ce4b829-b041-4d0e-8b27-19494ca11900)
+    ![Gambar WhatsApp 2025-02-13 pukul 21 26 37_d61301f9](https://github.com/user-attachments/assets/3cf25421-a954-4b6f-b585-56167e40b820)
+    ![Gambar WhatsApp 2025-02-13 pukul 21 27 00_f98caaf0](https://github.com/user-attachments/assets/98d686d0-d062-44cd-a56d-f4ff413d8031)
+    ![Gambar WhatsApp 2025-02-13 pukul 21 27 12_c94e9835](https://github.com/user-attachments/assets/3dae875e-5a3b-4cb2-bbd7-c72dfb3c0fcf)
+    ![Gambar WhatsApp 2025-02-13 pukul 21 30 41_0b2df91e](https://github.com/user-attachments/assets/7c65f10f-1729-4e4a-8999-30789315b26c)
+    ![Gambar WhatsApp 2025-02-13 pukul 21 33 56_97d9e168](https://github.com/user-attachments/assets/ab345fc7-64f4-4630-a884-9d0bff5814a3)
+    ![Gambar WhatsApp 2025-02-13 pukul 21 34 09_8067fed3](https://github.com/user-attachments/assets/737f5162-9707-4996-9c39-9b9ffd5838be)
+    ![Gambar WhatsApp 2025-02-13 pukul 21 34 37_7f55c4b9](https://github.com/user-attachments/assets/59f3d824-d062-4836-a8fd-a25d72a6a27c)
+    ![Gambar WhatsApp 2025-02-13 pukul 21 35 08_8e2e4e49](https://github.com/user-attachments/assets/f56d5e42-5d5d-4efc-99ab-11174d2c9a6d)
+    ![Gambar WhatsApp 2025-02-13 pukul 21 35 34_388c90fd](https://github.com/user-attachments/assets/6546ecf4-770b-43e4-b5cc-9d8b2526c91b)
+    ![Gambar WhatsApp 2025-02-13 pukul 21 37 55_c1ba265d](https://github.com/user-attachments/assets/abe3bec1-fb2d-4366-8acf-7cce506fd5d4)
+
+
+
+
+
+
+
+
+
+
+
 
 ---
